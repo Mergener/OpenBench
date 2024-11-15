@@ -20,7 +20,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # SECURITY WARNING: keep the secret key used in production secret!
 # SECURITY WARNING: don't run with debug turned on in production!
 SECRET_KEY = '@!zw2l8til1(0eb_nk+1w!(n78gqm&u)s)_v7#k6iseia@g9q0'
-DEBUG = True
+DEBUG = False
 
 if DEBUG:
     import mimetypes
@@ -136,3 +136,4 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/2.0/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = os.path.join(BASE_DIR, 'staticfiles')
