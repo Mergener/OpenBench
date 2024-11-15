@@ -23,26 +23,6 @@
     ],
 
     "engines" : [
-        "4ku",
-        "Berserk",
-        "Bit-Genie",
-        "BlackMarlin",
-        "Demolito",
-        "Drofa",
-        "Equisetum",
-        "Ethereal",
-        "FabChess",
-        "Halogen",
-        "Igel",
-        "Illumina",
-        "Koivisto",
-        "Laser",
-        "RubiChess",
-        "Seer",
-        "Stash",
-        "Stockfish",
-        "Weiss",
-        "Winter",
-        "Zahak"
+        "Illumina"
     ]
 }
