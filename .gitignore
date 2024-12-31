@@ -20,3 +20,6 @@ Media/Networks/*
 Media/Events/*
 
 venv/*
+Lib/*
+Scripts/*
+pyvenv.cfg
